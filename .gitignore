@@ -27,3 +27,4 @@ kubeconfig
 # environment files
 .env
 .env.prod
+.env.*
